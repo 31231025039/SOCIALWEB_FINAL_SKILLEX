@@ -5,7 +5,7 @@
 - Giảng viên: TS. Đặng Ngọc Hoàng Thành
 
 ## Thành viên nhóm 9
-- Trần Thế Hào - 3122
+- Trần Thế Hào - 31221026239
 - Nguyễn Thanh Thảo - 31231020747
 - Trương Nhật Phương Vy (Leader) - 31231025039
 - Nguyễn Hải Yến - 31231021967
