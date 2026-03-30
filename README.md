@@ -23,17 +23,17 @@ Việc phát triển dự án mạng xã hội Skillex được xây dựng dự
 - **Định vị giá trị cá nhân và phát triển hồ sơ năng lực số**: Bên cạnh việc tiếp cận và trao đổi tri thức, xu hướng phát triển nghề nghiệp hiện nay còn đặt ra yêu cầu về việc khẳng định giá trị cá nhân trong môi trường chuyên môn. Người học không chỉ dừng lại ở việc tiếp thu kiến thức mà còn cần chứng minh năng lực thông qua các sản phẩm và đóng góp thực tế. Vì vậy, Skillex cung cấp hệ thống công cụ hỗ trợ xây dựng hồ sơ năng lực số (Digital Portfolio) kết hợp với cơ chế đánh giá và xác thực từ cộng đồng. Qua đó, người dùng có thể chuyển từ vai trò học tập thụ động sang chủ động tạo ra giá trị, đồng thời nâng cao năng lực cạnh tranh trong thị trường lao động.
 - 
 ### Đối tượng, phạm vi nghiên cứu
-**Skillex hướng đến hai nhóm đối tượng chính:
+Skillex hướng đến hai nhóm đối tượng chính:
 - Sinh viên: Những người có nhu cầu học thêm kỹ năng mềm như ngoại ngữ, thiết kế, lập trình hoặc tìm kiếm bạn học nhóm.
-- Người đi làm (Freelancer/Junior): Mong muốn nâng cao chuyên môn thực tế, đồng thời chia sẻ kinh nghiệm để xây dựng thương hiệu cá nhân.
-** Điểm đặc biệt là mỗi người dùng có thể đồng thời đóng vai trò người học, người dạy hoặc người trao đổi, tạo nên một hệ sinh thái linh hoạt.
+- Người đi làm (Freelancer/Junior): Mong muốn nâng cao chuyên môn thực tế, đồng thời chia sẻ kinh nghiệm để xây dựng thương hiệu cá nhân. <br>
+Điểm đặc biệt là mỗi người dùng có thể đồng thời đóng vai trò người học, người dạy hoặc người trao đổi, tạo nên một hệ sinh thái linh hoạt.
 
 ### Mục tiêu hướng đến
-**Skillex được xây dựng với các mục tiêu chính:
+Skillex được xây dựng với các mục tiêu chính:
 - Kết nối người học và người dạy dựa trên nhu cầu thực tế.
 - Tạo không gian lưu trữ tài liệu và lộ trình học tập, giúp người dùng tiếp cận kiến thức có hệ thống.
-- Xây dựng hồ sơ năng lực (portfolio) thông qua đánh giá và phản hồi từ cộng đồng.
-**Giá trị cốt lõi của Skillex nằm ở mô hình: “Học – Dạy – Trao đổi”
+- Xây dựng hồ sơ năng lực (portfolio) thông qua đánh giá và phản hồi từ cộng đồng. <br>
+Giá trị cốt lõi của Skillex nằm ở mô hình: “Học – Dạy – Trao đổi”
 
 ## Lời cảm ơn
 Nhóm xin gửi lời cảm ơn chân thành nhất đến TS. Đặng Ngọc Hoàng Thành, người đã tận tâm hướng dẫn và đồng hành cùng nhóm trong suốt quá trình thực hiện đề tài. Những kiến thức và kinh nghiệm tích lũy từ học phần đóng vai trò quan trọng giúp nhóm tạo nên một sản phẩm hoàn chỉnh. Bên cạnh đó, nhóm cũng trân trọng cảm ơn Trường Đại học Kinh tế TP. Hồ Chí Minh (UEH) đã tạo điều kiện về cơ sở vật chất cũng như môi trường học tập thuận lợi để nhóm có thể học tập và nghiên cứu hiệu quả.
