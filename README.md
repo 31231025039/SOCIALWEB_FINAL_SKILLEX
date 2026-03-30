@@ -5,7 +5,7 @@
 - Giảng viên: TS. Đặng Ngọc Hoàng Thành
 
 ## Thành viên nhóm 9
-- Trương Nhật Phương Vy - 31231025039 (Nhóm trưởng) - GitHub: 31231025039
+- Trương Nhật Phương Vy (Nhóm trưởng) - 31231025039 - GitHub: 31231025039
 - Trần Thế Hào - 31221026239 - GitHub: tranhao241204-jpg
 - Nguyễn Thanh Thảo - 31231020747 - GitHub: nthanhthao01
 - Nguyễn Hải Yến - 31231021967 - GitHub: yennguyen4625
