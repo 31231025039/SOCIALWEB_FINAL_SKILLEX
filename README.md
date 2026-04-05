@@ -31,7 +31,7 @@ Việc phát triển dự án mạng xã hội Skillex được xây dựng dự
 
 **T chỉnh nè, khúc này mới nhen**
 Việc phát triển dự án mạng xã hội Skillex được xây dựng dựa trên các luận điểm khách quan về thực trạng xã hội và nhu cầu phát triển của nguồn nhân lực trẻ hiện nay, cụ thể như sau:
-- **Sự phân tán trên nhiều nền tảng khác nhau**: Hiện nay, sinh viên phải sử dụng nhiều nền tảng riêng lẻ cho từng mục đích như học tập, kết nối bạn bè, tìm việc hay xây dựng CV. Điều này gây mất thời gian, thiếu tính liên kết và khó quản lý thông tin. Vì vậy, nhu cầu về một nền tảng tích hợp"all-in-one platform" trở nên cần thiết.
+- **Sự phân tán trên nhiều nền tảng khác nhau**: Hiện nay, sinh viên phải sử dụng nhiều nền tảng riêng lẻ cho từng mục đích như học tập, kết nối bạn bè, tìm việc hay xây dựng CV. Điều này gây mất thời gian, thiếu tính liên kết và khó quản lý thông tin. Vì vậy, nhu cầu về một nền tảng tích hợp "all-in-one platform" trở nên cần thiết.
 - **Thiếu môi trường kết nối học tập và hợp tác thực tế**: Mặc dù có nhiều nền tảng mạng xã hội, nhưng việc tìm kiếm bạn học chung, đồng đội tham gia cuộc thi hoặc dự án vẫn còn rời rạc và thiếu hiệu quả. Sinh viên gặp khó khăn trong việc tìm người cùng mục tiêu hoặc cùng kỹ năng để hợp tác.
 - **Hạn chế trong định hướng nghề nghiệp và xây dựng hồ sơ cá nhân**: Nhiều sinh viên chưa có công cụ phù hợp để xây dựng CV, theo dõi quá trình phát triển hoặc tiếp cận cơ hội việc làm uy tín. Điều này ảnh hưởng đến khả năng cạnh tranh khi bước vào thị trường lao động.
   
@@ -45,7 +45,7 @@ Skillex hướng đến hai nhóm đối tượng chính:
 **T chỉnh nè, khúc này mới nhen**
 Skillex hướng đến hai nhóm đối tượng chính:
 - Sinh viên: Có nhu cầu học tập, kết nối bạn bè, tham gia hoạt động ngoại khóa, cuộc thi, dự án.
-- Sinh viên năm cuối / người mới đi làm (Junior/Fresher): Tìm kiếm cơ hội việc làm, xây dựng CV và phát triển mạng lưới quan hệ.
+- Sinh viên năm cuối (Intern/Fresher): Tìm kiếm cơ hội việc làm, xây dựng CV và phát triển mạng lưới quan hệ.
 
 Điểm đặc biệt là mỗi người dùng có thể vừa là người học, vừa là người kết nối, vừa là người tìm kiếm cơ hội, tạo nên một hệ sinh thái linh hoạt.
 
